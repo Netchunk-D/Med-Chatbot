@@ -1,9 +1,2 @@
 # Med-Chatbot
-Created an chatbot using llama2 model with langchain
-Download pretrained model from Hugging Face (llama2)
-Model name:-llama-2-7b-chat.ggmlv3.q8_0.bin
-Use this Model in main directory
-Minimum 16GB RAM is required
-Ingest.py is going to create an vector store ("vectore") 
-Put any data in pdf format inside data directory
-Chainlit is used for frontend (open source)
+This is a medical bot built using Llama2 and Sentence Transformers. The bot is powered by Langchain and Chainlit. The bot runs on a decent CPU machine with a minimum of 16GB of RAM.
